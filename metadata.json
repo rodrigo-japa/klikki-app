@@ -1,0 +1,6 @@
+{
+  "name": "Klikki",
+  "description": "Marketplace local de prestadores de serviços e lojistas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
